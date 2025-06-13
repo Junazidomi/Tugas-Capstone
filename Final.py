@@ -17,7 +17,7 @@ st.markdown("""
     .custom-col {
         color: #000000;
         background-image:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
-             url( https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Tugas_Capstone/Gambar/green-technology.png);
+             url( Gambar/green-technology.png);
         background-size: cover;
         background-position: center;
         padding: 20px;
