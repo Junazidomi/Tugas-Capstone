@@ -51,7 +51,7 @@ st.markdown('''
 
 
 def load_tflite_model():
-    interpreter = tf.lite.Interpreter(model_path="Notebook/model.tflite")
+    interpreter = tf.lite.Interpreter(model_path="Notebook/model_quant.tflite")
     interpreter.allocate_tensors()
     return interpreter
 
