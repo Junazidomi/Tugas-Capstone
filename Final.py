@@ -40,7 +40,7 @@ with st.sidebar:
 st.markdown('''
     <div class="custom-col" style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
         <div style="flex: 1; text-align: center;">
-            <img src="https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Tugas_Capstone/Gambar/Recycle.png" width="200">
+            <img src="https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Gambar/Recycle.png" width="200">
         </div>
         <div style="flex: 2; text-align: left;">
             <p>Web klasifikasi sampah ini dibuat untuk membantu pengguna mengenali dan mengelompokkan 4 jenis sampah.
@@ -79,19 +79,19 @@ st.markdown('''
         margin-bottom: 30px;
     ">
         <div style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Tugas_Capstone/Gambar/Botol%20Plastik.png" width="200">
+            <img src="https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Gambar/Botol%20Plastik.png" width="200">
             <p>Botol Plastik</p>
         </div>
         <div style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Tugas_Capstone/Gambar/Kardus.png" width="200">
+            <img src="https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Gambar/Kardus.png" width="200">
             <p>Karton</p>
         </div>
         <div style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Tugas_Capstone/Gambar/Metal.png" width="200">
+            <img src="https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Gambar/Metal.png" width="200">
             <p>Metal</p>
         </div>
         <div style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Tugas_/Gambar/Organik.png" width="200">
+            <img src="https://raw.githubusercontent.com/Junazidomi/Tugas-Capstone/refs/heads/main/Gambar/Organik.png" width="200">
             <p>Organik</p>
         </div>
     </div>
