@@ -39,15 +39,15 @@ Web ini mengklasifikasikan sampah ke dalam 4 kategori utama berikut:
 
 Setiap kategori memiliki karakteristik khusus yang membantu model dalam mengenali dan mengklasifikasikan sampah dengan akurat.
 ## Persiapan
-
+Adapun untuk dataset yang digunakan berasal dari kaggle yaitu [Dataset](https://www.kaggle.com/datasets/juanzi/basetrash2)
 ### Cara Menjalankan Streamlit Secara Lokal
 Untuk menjalankan aplikasi Streamlit secara lokal di komputer Anda, ikuti langkah-langkah berikut:
 
-Langkah 1: Instalasi Python
+- Langkah 1: Instalasi Python
 Pastikan Python sudah terpasang di komputer Anda. Anda bisa mengunduhnya dari : 
 [Python](https://www.python.org/)
 
-Langkah 2: Instalasi Streamlit
+- Langkah 2: Instalasi Streamlit
 
 Buka terminal atau command prompt, lalu jalankan perintah berikut untuk menginstal Streamlit:
 
@@ -57,7 +57,7 @@ Buka terminal atau command prompt, lalu jalankan perintah berikut untuk menginst
     pip install streamlit
 ```
 
-Langkah 3: Menjalankan Aplikasi Streamlit
+- Langkah 3: Menjalankan Aplikasi Streamlit
 
 Setelah instalasi selesai, arahkan terminal ke folder tempat file aplikasi Streamlit Anda berada, lalu jalankan perintah:
 
@@ -68,7 +68,7 @@ Setelah instalasi selesai, arahkan terminal ke folder tempat file aplikasi Strea
 
 ```
 
-## Cara Menjalankan proyek melalui Env
+### Cara Menjalankan proyek melalui Env
 
 Conda adalah manajer lingkungan yang memudahkan pengelolaan paket dan environment Python.
 
@@ -89,7 +89,6 @@ Conda adalah manajer lingkungan yang memudahkan pengelolaan paket dan environmen
     ```bash
     pip install -r requirements.txt
     ```
-
 ## Tampilan Web App
 
 Aplikasi web klasifikasi sampah ini memiliki antarmuka yang sederhana dan user-friendly dengan komponen utama sebagai berikut:
