@@ -1,5 +1,12 @@
 # Proyek Capstone: ECOVISION Gerakan Pilah Sampah Cerdas Di Mulai Disini
 
+## Latar Belakang Masalah 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sampah di Indonesia masih merupakan masalah lingkungan yang mendesak dan kompleks. Volume sampah yang dihasilkan terus meningkat setiap hari karena populasi yang meningkat dan laju urbanisasi. Sayangnya, pengelolaan sampah masih menggunakan sistem kumpul-angkut-buang tradisional tanpa proses pemilahan yang memadai di tingkat sumber, seperti rumah tangga dan lingkungan sekitar. Hal ini menyebabkan tumpukan sampah bercampur di Tempat Pembuangan Akhir (TPA), yang mempercepat kapasitas TPA, dan menyebabkan pencemaran tanah, air, dan udara serta risiko kesehatan bagi komunitas sekitar.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Namun, pemilahan sampah dari sumbernya sangat penting untuk pengelolaan sampah yang berkelanjutan. Sampah anorganik seperti kaca, plastik, dan logam sangat berharga karena dapat didaur ulang. Sampah organik seperti sisa makanan dan daun kering dapat diolah menjadi kompos atau bahan baku energi. Namun, kesadaran dan pengetahuan masyarakat tentang pemilahan mandiri masih rendah. Selain itu, kendala utama dalam menerapkan pemilahan sampah baik di tingkat individu maupun komunitas adalah keterbatasan waktu dan sumber daya.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ketika teknologi berkembang, khususnya di bidang kecerdasan buatan (AI), ada peluang untuk membuat solusi inovatif yang dapat mengatasi masalah ini. Kami dapat membangun sistem klasifikasi citra yang menggunakan teknologi Convolutional Neural Network (CNN) untuk mengidentifikasi jenis sampah berdasarkan gambar. Diharapkan sistem ini akan membantu masyarakat memilah sampah organik dan anorganik secara praktis, cepat, dan akurat. Sebagai bagian dari upaya untuk mendukung gerakan pilah sampah cerdas dan membangun ekosistem pengelolaan sampah yang lebih ramah lingkungan dan berkelanjutan, proyek ini bertujuan untuk mengembangkan model CNN tersebut.
+
 ## Cara Menjalankan Streamlit Secara Lokal
 Untuk menjalankan aplikasi Streamlit secara lokal di komputer Anda, ikuti langkah-langkah berikut:
 
